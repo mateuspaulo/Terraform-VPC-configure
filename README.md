@@ -1,2 +1,2 @@
 # Terraform-VPC-configure
-Simple VPC and Subnets configure with Terraform
+Simple AWS VPC and Subnets configure with Terraform
